@@ -21,10 +21,11 @@ sections:
             url: /about
             style: primary
       - title: UI/UX Design
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          We build digital experiences from scratch, or audit and redesign
+          existing solutions. We apply our design thinking and technology
+          background to help you deliver engaging experiences for your customers
+          and employees.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image

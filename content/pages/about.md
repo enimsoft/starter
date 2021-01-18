@@ -5,19 +5,16 @@ sections:
     title: Who We Are
     align: center
   - type: content_section
-    content: >-
-      Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
-      sit amet venenatis urna cursus eget nunc. Dui nunc mattis enim ut tellus.
-      Eu sem integer vitae justo eget magna fermentum. Habitant morbi tristique
-      senectus et netus et malesuada fames. Ipsum dolor sit amet consectetur
-      adipiscing elit pellentesque habitant.
+    content: >
+      We are a Software Development and Services company aiming to revolutionize
+      the way software is ideated, developed, and maintained. We try to use the
+      best industry practices and keep up to date with the latest trends to give
+      your product an edge and stay ahead of the market. 
 
 
-      Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Ac
-      felis donec et odio pellentesque. Sem nulla pharetra diam sit amet.
-      Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
-      neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
-      turpis in eu mi bibendum neque egestas.
+      We have been able to make radical improvements to existing businesses by
+      introducing novelties in the way technology is used. We try to give the
+      best possible price and effort to our clients.
   - type: team_section
     title: Our Team
     team:

@@ -52,7 +52,7 @@ sections:
         image_position: left
         actions:
           - label: Learn More
-            url: /features
+            url: /services
             style: secondary
       - title: Feature 3
         content: >-

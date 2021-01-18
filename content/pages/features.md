@@ -23,7 +23,7 @@ sections:
           - label: Learn More
             url: /about
             style: primary
-      - title: UI/UX Design
+      - title: UI/UX Design and Prototyping
         content: >
           We build digital experiences from scratch, or audit and redesign
           existing solutions. We apply our design thinking and technology

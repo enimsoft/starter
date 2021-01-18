@@ -32,7 +32,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "images/logo512.png"
+        "logo": "images/logo512.png",
+        "logo_alt": "Enim AI"
     },
     "footer": {
         "has_nav": true,

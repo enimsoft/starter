@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: Software solutions for every need
     subtitle: >-
-      Enim AI provides turn-key software development services that add value to
-      your business. Contact us today and transform your ideas into solutions!
+      Enim AI provides customised software development services that add value
+      to your business. Contact us today and transform your ideas into
+      solutions!
     actions:
       - label: Learn More
         url: /features

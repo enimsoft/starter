@@ -31,7 +31,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/logo512.png"
     },
     "footer": {
         "has_nav": true,

@@ -35,10 +35,12 @@ sections:
             url: /style-guide
             style: primary
       - title: Maintenance
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          We design a unique program for each customer based on your support and
+          maintenance needs. Whether you're rolling out a custom solution or
+          transitioning from a third-party system, we are here to help. Our
+          support and maintenance experts are pros at solving problems on-time
+          and on-budget.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image

@@ -78,7 +78,7 @@ sections:
       quis lorem malesuada luctus.
     actions:
       - label: Learn More
-        url: /features
+        url: /services
         style: primary
     has_background: true
     background_color: gray

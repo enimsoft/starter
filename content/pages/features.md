@@ -5,7 +5,8 @@ sections:
     title: Services
     subtitle: >-
       We provide a broad spectrum of services suited to your business ranging
-      from UI/UX Design and Prototyping to complete product
+      from UI/UX Design and Prototyping to complete product development and
+      maintenance
     align: center
   - type: features_section
     features:

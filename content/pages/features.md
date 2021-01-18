@@ -8,8 +8,10 @@ sections:
   - type: features_section
     features:
       - title: Software Engineering
-        content: |
-          software engineering
+        content: >
+          Combining tech expertise and industry-specific knowledge, we develop
+          custom solutions for small, medium-sized, and enterprise-grade
+          businesses.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image

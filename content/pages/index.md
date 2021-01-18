@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Software solutions for every need
     subtitle: >-
-      Syberry provides turn-key software development services that add value to
+      Enim AI provides turn-key software development services that add value to
       your business. Contact us today and transform your ideas into solutions!
     actions:
       - label: Learn More

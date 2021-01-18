@@ -8,10 +8,8 @@ sections:
   - type: features_section
     features:
       - title: Software Engineering
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+          software engineering
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image

@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Software solutions for every need
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Syberry provides turn-key software development services that add value to
+      your business. Contact us today and transform your ideas into solutions!
     actions:
       - label: Learn More
         url: /features

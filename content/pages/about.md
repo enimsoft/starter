@@ -25,7 +25,7 @@ sections:
       - content/data/team/gordon-norman.yaml
   - type: cta_section
     title: Join the Team
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: 'Help us build quality software and bring '
     actions:
       - label: Contact Us
         url: /contact

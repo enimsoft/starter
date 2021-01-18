@@ -3,7 +3,9 @@ title: Services
 sections:
   - type: hero_section
     title: Services
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: >-
+      We provide a broad spectrum of services suited to your business ranging
+      from UI/UX Design and Prototyping to complete product
     align: center
   - type: features_section
     features:
